@@ -1,0 +1,8 @@
+[package]
+name = "creative-coding"
+version = "0.1.0"
+authors = ["hola-soy-milk <hola@carmenh.dev>"]
+edition = "2021"
+
+[dependencies]
+nannou = "0.17"
